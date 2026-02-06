@@ -2,9 +2,31 @@
 
 A **Twitter/X-style social media web application UI** built with **React.js** and **Vite**.
 
-> 📱 This project implements a frontend inspired by the modern microblogging experience of Twitter/X, allowing users to post content, view posts, and interact with a timeline-style interface. It’s designed for learning modern React patterns and building rich web UIs.
+> 📱 This project implements a frontend inspired by the modern microblogging experience of Twitter/X, allowing users to post content, view posts, and interact with a timeline-style interface. It’s designed for learning modern React patterns and building rich web UIs. It integrates new features like X Food, X Pay and X Cloud that are essential for everything app.
 
 ---
+
+## ⭐ Main Goal
+
+It is a demo project made to show a glimpse of X The Everything App that it can become in future. This project comes with a whole new set of features and functions that are essential for The Everything App. Features that are added in this project are :-
+
+* Filter Chips with topics including favourite, trending, vines, videos and more.
+* New Trending page with trending posts, people and communities.
+* Stories in Messages and files and location option in chats.
+* About section profile to include all the public information of user at one place.
+* Orgs section in profile to include only original content of users.
+* Media section with media lists similar to youtube playlists.
+* Title and description in post creation.
+* Services tab including essential services for The Everything App:-
+    * X Pay to send payments.
+    * X AI having all the ai features.
+    * X Jobs for hiring and to apply for jobs.
+    * X Ads for both advertisors and creators on X platforms.
+    * X Food for ordering food online from near restaurants and shops.
+    * X Bookings to book tickets and places online.
+    * X Shopping to buy online from all the stores by ride delivery.
+    * X Ride to book taxi, cabs, metro, bus and trains.
+    * X Cloud to store data and media online.
 
 ## 🚀 Features
 
